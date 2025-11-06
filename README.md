@@ -2,8 +2,8 @@
 
 An interactive diagnostic analytics project developed for **Mawsool Company (Saudi Arabia)** to evaluate logistics operations and warehouse performance.
 
-![Dashboard Preview](<img width="373" height="201" alt="ب-removebg-preview" src="https://github.com/user-attachments/assets/d322ddeb-3ac4-43da-b707-51b65d51ec5e" />
-)
+<img src="E:\certification\interactive dash\ICONS/ب.PNG" alt="Mawsool Logo" width="300" height="160">
+
 ---
 
 ## 🧾 Project Description
